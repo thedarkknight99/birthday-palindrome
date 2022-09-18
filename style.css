@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Open+Sans:wght@400;700&display=swap');
+
+
 :root {
     --primary-color: #a855f7;
     --heading-color: #7e22ce;
@@ -5,6 +8,7 @@
 
 body {
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
